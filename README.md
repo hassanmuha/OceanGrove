@@ -1,2 +1,2 @@
-# bridg.it2
+# OceanGrove
 Repo for Project Development
